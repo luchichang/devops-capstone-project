@@ -61,7 +61,7 @@ spec:
     - name: source  
   params:
     - name: args
-      description: "collection of arguments run in the nose module"
+      description: collection of arguments run in the nose module"
       type: string
       default: -v
     - name: database_uri
